@@ -13,3 +13,4 @@ Resources
 - [Java 8 and beyond keynote - video](http://parleys.com/play/52ada612e4b0cc758a757a77/chapter68/about) 
 - [Java 8 Lambda and Streams](http://www.infoq.com/presentations/lambda-streams-java-8) - Simom Ritters, Oracle - @speakjava
 - [Simplifying Java using Lambdas] (http://t.co/eA6yVESukw) - Richard Warburton, @RichardWarburto
+- [Get a Taste of Lambdas and Get Addicted to Streams](https://www.youtube.com/watch?v=1OpAgZvYXLQ) - Venkat Subramaniam, @venkat_s
